@@ -232,6 +232,9 @@ body {
         font-weight: 600;
 
     }
+    .apresentacao__conteudo__links__navegacao:hover{
+        font-size: 0;
+    }
 
     .apresentacao__conteudo__links__navegacao {
         display: block;
