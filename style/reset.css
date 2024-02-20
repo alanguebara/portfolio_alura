@@ -1,0 +1,53 @@
+/* http://meyerweb.com/eric/tools/css/reset/ */
+/* v1.0 | 20080212 */
+
+html, corpo, div, span, miniaplicativo, objeto, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pré,
+a, abbr, sigla, endereço, grande, citar, código,
+del, dfn, em, fonte, img, ins, kbd, q, s, samp,
+pequeno, ataque, forte, sub, sup, tt, var,
+b, você, eu, centro,
+dl, dt, dd, ol, ul, li,
+conjunto de campos, formulário, rótulo, legenda,
+tabela, legenda, tbody, tfoot, thead, tr, th, td {
+	margem: 0;
+	preenchimento: 0;
+	borda: 0;
+	contorno: 0;
+	tamanho da fonte: 100%;
+	alinhamento vertical: linha de base;
+	fundo: transparente;
+}
+corpo {
+	altura da linha: 1;
+}
+olá, ul {
+	estilo de lista: nenhum;
+}
+citação em bloco, q {
+	citações: nenhuma;
+}
+blockquote: antes, blockquote: depois,
+q:antes, q:depois {
+	contente: '';
+	conteúdo: nenhum;
+}
+
+/* lembre-se de definir estilos de foco! */
+:foco {
+	contorno: 0;
+}
+
+/* lembre-se de destacar as inserções de alguma forma! */
+ins {
+	decoração de texto: nenhuma;
+}
+del {
+	decoração de texto: line-through;
+}
+
+/* tabelas ainda precisam de 'cellspacing="0"' na marcação */
+mesa {
+	colapso da fronteira: colapso;
+	espaçamento entre fronteiras: 0;
+}
